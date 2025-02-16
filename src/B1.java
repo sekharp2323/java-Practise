@@ -5,5 +5,6 @@ public class B1 {
         b=a-b;
         a=a-b;
         System.out.println("a: "+a+", b: "+b);
+        System.out.println("This explains swapping problem in java");
     }
 }
